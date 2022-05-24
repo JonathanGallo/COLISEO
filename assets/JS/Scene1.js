@@ -9,7 +9,7 @@ class Scene1 extends Phaser.Scene {
       this.load.image('fondo', './assets/sprites/fondo.png');
       this.load.image('fondo_der', './assets/sprites/fon_derrota.png');
       this.load.image('ground', './assets/sprites/platform.png');
-      this.load.image('ground2', '/assets/sprites/platform2.png');
+      this.load.image('ground2', './assets/sprites/platform2.png');
       this.load.image('star', './assets/sprites/akuma.png');
       this.load.image('INICIAR', './assets/sprites/INICIAR.png');
       this.load.image('INICIAR2', './assets/sprites/INICIAR_2.png');
